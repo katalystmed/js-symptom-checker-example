@@ -5,6 +5,7 @@
   "author": "Infermedica Sp. z o.o.",
   "license": "MIT",
   "scripts": {
+    "start": "node src/index.js",
     "lint": "eslint ./src",
     "build": "webpack",
     "dev": "webpack-dev-server"
